@@ -4,4 +4,5 @@ This is a visualisation of lorenz attractor being generated. This was my submiss
 
 ## Code Demo
 ![](https://github.com/sahej-dev/Lorenz-Attractor/blob/main/lorenz.gif)
-This gif is sped up 4x, as I cannot upload an 80mb 2 min gif on github.
+
+This gif is sped up 4x as I cannot upload an 80mb 2 min gif on github.
